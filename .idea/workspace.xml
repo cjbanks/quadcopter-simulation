@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="dd33b0a5-aae2-4927-a036-442efc539275" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+=======
+    <list default="true" id="efe96c9e-5e37-4993-8a05-8f16d7c4cc86" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/text.txt" afterPath="$PROJECT_DIR$/text.txt" />
+>>>>>>> 3463a70dfc13d9c76711ca3d754ce86a14a0d5a0
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +22,13 @@
       <file leaf-file-name="text.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/text.txt">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="19">
               <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+            <state relative-caret-position="38">
+              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+>>>>>>> 3463a70dfc13d9c76711ca3d754ce86a14a0d5a0
               <folding />
             </state>
           </provider>
@@ -28,6 +39,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/text.txt" />
+      </list>
+    </option>
+  </component>
+>>>>>>> 3463a70dfc13d9c76711ca3d754ce86a14a0d5a0
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -35,10 +56,16 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="432" />
     <option name="y" value="30" />
     <option name="width" value="950" />
     <option name="height" value="787" />
+=======
+    <option name="y" value="30" />
+    <option name="width" value="960" />
+    <option name="height" value="1050" />
+>>>>>>> 3463a70dfc13d9c76711ca3d754ce86a14a0d5a0
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -57,10 +84,28 @@
     <panes>
       <pane id="Scope" />
       <pane id="Scratches" />
+<<<<<<< HEAD
       <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+=======
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="quadcopter-simulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quadcopter-simulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+>>>>>>> 3463a70dfc13d9c76711ca3d754ce86a14a0d5a0
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -79,6 +124,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
+<<<<<<< HEAD
     <configuration />
   </component>
   <component name="TaskManager">
@@ -88,6 +134,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517348602304</updated>
+=======
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efe96c9e-5e37-4993-8a05-8f16d7c4cc86" name="Default" comment="" />
+      <created>1517348209434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517348209434</updated>
+>>>>>>> 3463a70dfc13d9c76711ca3d754ce86a14a0d5a0
     </task>
     <servers />
   </component>
@@ -136,5 +193,24 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/cf_sim_3rd_flatness_N5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 3463a70dfc13d9c76711ca3d754ce86a14a0d5a0
   </component>
 </project>
